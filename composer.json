@@ -1,0 +1,19 @@
+{
+  "name": "dcarbone/phpine-tree",
+  "authors": [
+    {
+      "name": "Daniel Carbone",
+      "email": "daniel.p.carbone@gmaail.com",
+      "homepage": "https://github.com/dcarbone"
+    }
+  ],
+  "license": "unlicense",
+  "autoload": {
+    "psr-4": {
+      "PHPinTree\\": "thecodegoeshere"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
